@@ -15,9 +15,14 @@ A voice recognition-based tool for translating languages in real-time. This tool
  - Pygame Module
  - Googletrans (v3.1.0a0 Recommended)
 
- ## 03 System Architeture Diagram
+ ## 03 Data Flow Diagram
 
- ![diagram](docs/media/1-system-architeture.png)
+ ![diagram](DFD.png)
+
+ ## 04 Sequence Diagram
+
+ ![diagram](SQD.png)
+
 
 ## 04 Setup
 
