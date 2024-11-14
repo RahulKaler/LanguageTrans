@@ -30,3 +30,7 @@ A voice recognition-based tool for translating languages in real-time. This tool
  ## 06 Use Case Diagram
 
  ![diagram](UseCaseDiagram.png)
+
+## 07 Project Report
+
+![report](ProjectTestingReport.pdf)
