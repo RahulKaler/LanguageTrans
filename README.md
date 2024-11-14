@@ -22,3 +22,11 @@ A voice recognition-based tool for translating languages in real-time. This tool
  ## 04 Sequence Diagram
 
  ![diagram](SQD.png)
+ 
+ ## 05 Class Diagram
+
+ ![diagram](SQD.png)
+
+ ## 05 Use Case Diagram
+
+ ![diagram](SQD.png)
